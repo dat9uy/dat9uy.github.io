@@ -1,4 +1,4 @@
-Sitemap: https://dat9uy.github.io/sitemapindex.xml
+Sitemap: https://dat9uy.github.io/posts/sitemapindex.xml
 
 User-Agent: *
 Host: dat9uy.github.io
