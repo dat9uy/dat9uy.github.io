@@ -174,3 +174,6 @@
 'render_taxonomies:output/categories/philosophy/index.html', (403968, 2266)
 'render_taxonomies:output/posts/index.html', (406528, 6093)
 'copy_assets:output/assets/css/bootstrap.css', (412672, 289)
+'render_sources:output/posts/cach-tiep-can-van-de-cua-toi/index.md', (419840, 280)
+'render_posts:cache/posts/cach-tiep-can-van-de-cua-toi.html', (420352, 411)
+'render_pages:output/posts/cach-tiep-can-van-de-cua-toi/index.html', (420864, 6249)
