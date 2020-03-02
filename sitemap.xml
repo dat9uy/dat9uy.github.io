@@ -6,103 +6,103 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>https://dat9uy.github.io/posts/2020/</loc>
+  <loc>https://dat9uy.github.io/2020/</loc>
   <lastmod>2020-03-02T16:26:00Z</lastmod>
  </url>
  <url>
-  <loc>https://dat9uy.github.io/posts/archive.html</loc>
-  <lastmod>2020-03-02T23:21:00Z</lastmod>
+  <loc>https://dat9uy.github.io/archive.html</loc>
+  <lastmod>2020-03-02T23:29:00Z</lastmod>
  </url>
  <url>
-  <loc>https://dat9uy.github.io/posts/categories/</loc>
+  <loc>https://dat9uy.github.io/categories/</loc>
   <lastmod>2020-03-02T23:18:00Z</lastmod>
  </url>
  <url>
-  <loc>https://dat9uy.github.io/posts/categories/philosophy/</loc>
+  <loc>https://dat9uy.github.io/categories/philosophy/</loc>
   <lastmod>2020-03-02T16:30:00Z</lastmod>
  </url>
  <url>
-  <loc>https://dat9uy.github.io/posts/galleries/</loc>
+  <loc>https://dat9uy.github.io/galleries/</loc>
   <lastmod>2020-03-02T13:08:00Z</lastmod>
  </url>
  <url>
-  <loc>https://dat9uy.github.io/posts/galleries/demo/</loc>
+  <loc>https://dat9uy.github.io/galleries/demo/</loc>
   <lastmod>2020-03-02T13:08:00Z</lastmod>
  </url>
  <url>
-  <loc>https://dat9uy.github.io/posts/listings/</loc>
+  <loc>https://dat9uy.github.io/listings/</loc>
   <lastmod>2020-03-02T13:08:00Z</lastmod>
  </url>
  <url>
-  <loc>https://dat9uy.github.io/posts/listings/__pycache__/</loc>
+  <loc>https://dat9uy.github.io/listings/__pycache__/</loc>
   <lastmod>2020-03-02T13:08:00Z</lastmod>
  </url>
  <url>
-  <loc>https://dat9uy.github.io/posts/listings/hello.py.html</loc>
-  <lastmod>2020-03-02T23:21:00Z</lastmod>
+  <loc>https://dat9uy.github.io/listings/hello.py.html</loc>
+  <lastmod>2020-03-02T23:29:00Z</lastmod>
  </url>
  <url>
-  <loc>https://dat9uy.github.io/posts/pages/about-nikola/</loc>
+  <loc>https://dat9uy.github.io/pages/about-nikola/</loc>
   <lastmod>2020-03-02T13:08:00Z</lastmod>
  </url>
  <url>
-  <loc>https://dat9uy.github.io/posts/pages/bootstrap-demo/</loc>
+  <loc>https://dat9uy.github.io/pages/bootstrap-demo/</loc>
   <lastmod>2020-03-02T13:08:00Z</lastmod>
  </url>
  <url>
-  <loc>https://dat9uy.github.io/posts/pages/charts/</loc>
+  <loc>https://dat9uy.github.io/pages/charts/</loc>
   <lastmod>2020-03-02T13:08:00Z</lastmod>
  </url>
  <url>
-  <loc>https://dat9uy.github.io/posts/pages/creating-a-theme/</loc>
+  <loc>https://dat9uy.github.io/pages/creating-a-theme/</loc>
   <lastmod>2020-03-02T13:08:00Z</lastmod>
  </url>
  <url>
-  <loc>https://dat9uy.github.io/posts/pages/dr-nikolas-vendetta/</loc>
+  <loc>https://dat9uy.github.io/pages/dr-nikolas-vendetta/</loc>
   <lastmod>2020-03-02T13:08:00Z</lastmod>
  </url>
  <url>
-  <loc>https://dat9uy.github.io/posts/pages/extending/</loc>
+  <loc>https://dat9uy.github.io/pages/extending/</loc>
   <lastmod>2020-03-02T13:08:00Z</lastmod>
  </url>
  <url>
-  <loc>https://dat9uy.github.io/posts/pages/handbook/</loc>
+  <loc>https://dat9uy.github.io/pages/handbook/</loc>
   <lastmod>2020-03-02T13:08:00Z</lastmod>
  </url>
  <url>
-  <loc>https://dat9uy.github.io/posts/pages/internals/</loc>
+  <loc>https://dat9uy.github.io/pages/internals/</loc>
   <lastmod>2020-03-02T13:08:00Z</lastmod>
  </url>
  <url>
-  <loc>https://dat9uy.github.io/posts/pages/listings-demo/</loc>
+  <loc>https://dat9uy.github.io/pages/listings-demo/</loc>
   <lastmod>2020-03-02T13:08:00Z</lastmod>
  </url>
  <url>
-  <loc>https://dat9uy.github.io/posts/pages/path-handlers/</loc>
+  <loc>https://dat9uy.github.io/pages/path-handlers/</loc>
   <lastmod>2020-03-02T13:08:00Z</lastmod>
  </url>
  <url>
-  <loc>https://dat9uy.github.io/posts/pages/quickref/</loc>
+  <loc>https://dat9uy.github.io/pages/quickref/</loc>
   <lastmod>2020-03-02T13:08:00Z</lastmod>
  </url>
  <url>
-  <loc>https://dat9uy.github.io/posts/pages/quickstart/</loc>
+  <loc>https://dat9uy.github.io/pages/quickstart/</loc>
   <lastmod>2020-03-02T13:08:00Z</lastmod>
  </url>
  <url>
-  <loc>https://dat9uy.github.io/posts/pages/social_buttons/</loc>
+  <loc>https://dat9uy.github.io/pages/social_buttons/</loc>
   <lastmod>2020-03-02T13:08:00Z</lastmod>
  </url>
  <url>
-  <loc>https://dat9uy.github.io/posts/pages/theming/</loc>
+  <loc>https://dat9uy.github.io/pages/theming/</loc>
   <lastmod>2020-03-02T13:08:00Z</lastmod>
  </url>
  <url>
-  <loc>https://dat9uy.github.io/posts/posts/</loc>
+  <loc>https://dat9uy.github.io/posts/</loc>
   <lastmod>2020-03-02T23:18:00Z</lastmod>
  </url>
  <url>
-  <loc>https://dat9uy.github.io/posts/posts/cach-tiep-can-van-de-cua-toi/</loc>
+  <loc>https://dat9uy.github.io/posts/cach-tiep-can-van-de-cua-toi/</loc>
   <lastmod>2020-03-02T23:18:00Z</lastmod>
  </url>
 </urlset>
